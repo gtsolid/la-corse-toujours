@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://lacorsetoujoursmain.gatsbyjs.io/",
     title: "La Corse Toujours",
   },
   plugins: [
