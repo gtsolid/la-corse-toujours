@@ -4,11 +4,11 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+    <Layout pageTitle="Mission">
+      <p>La Corse Toujours aims to bring a little of Corsican flavor in our daily life!</p>
       <StaticImage
         alt="Corsica map"
-        src="../images/IMG_3424.jpg"
+        src="../images/corsica-tourist-map - low.jpg"
       />
     </Layout>
   )
