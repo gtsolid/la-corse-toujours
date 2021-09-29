@@ -16,7 +16,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `data`,
+        name: `cycling_ascents`,
         path: `${__dirname}/cycling_ascents/`,
       }
     },

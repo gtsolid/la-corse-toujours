@@ -41,6 +41,11 @@ const Layout = ({ pageTitle, children }) => {
               Mountains
             </Link>
           </li>
+          <li className={navLinkItem}>
+            <Link to="/cycling_ascents" className={navLinkText}>
+              Cycling ascents
+            </Link>
+          </li>
         </ul>
       </nav>
       <main>

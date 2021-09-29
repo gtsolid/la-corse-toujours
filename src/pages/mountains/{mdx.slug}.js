@@ -46,6 +46,6 @@ export const query = graphql`
   }
 `
 
-console.log();
+console.log()
 
 export default BlogPost
