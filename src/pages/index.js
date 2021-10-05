@@ -10,6 +10,7 @@ const IndexPage = () => {
         alt="Corsica map"
         src="../images/corsica-tourist-map - low.jpg"
       />
+      <p>ebbene</p>
     </Layout>
   )
 }

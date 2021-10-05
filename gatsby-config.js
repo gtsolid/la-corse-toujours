@@ -9,15 +9,15 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: `mountains`,
-        path: `${__dirname}/mountains`,
+        name: `top10`,
+        path: `${__dirname}/top10/`,
       }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `cycling_ascents`,
-        path: `${__dirname}/cycling_ascents/`,
+        name: `memories`,
+        path: `${__dirname}/memories/`,
       }
     },
     "gatsby-plugin-mdx",
